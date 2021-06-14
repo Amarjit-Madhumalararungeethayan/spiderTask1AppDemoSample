@@ -1,0 +1,2 @@
+rootProject.name = "LorentzFormula"
+include ':app'
